@@ -26,7 +26,8 @@ Practiced over 400 Data Structures and Algorithms. Having 1200+ hours of hands-o
   - 👨‍🦱: Want to know more about me <a href="https://amanacr0358.github.io/">PortFolio</a>
   - 💬:Ask me about: <b>Backend</b>,<b>Java</b>,<b>SQL</b>,<b>Frontend</b>
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aman-choure-080199248/)   [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](amanchoure0358@gmail.com)
-  
+  - 📧 Email: amanchoure0358@gmail.com
+  - 📍 Location: Sausar (Madhya Pradesh), India
   
   ### :hammer_and_wrench: Languages and Tools :
   <div>
