@@ -1,62 +1,117 @@
- <div id="header" align="center">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJDOCHYZ15uqcRX7YWevCP65SnQ0kvo4_zXCNzDD3OgaARZOyYW7FT3vTeiVS7cnLL-xE&usqp=CAU" width="200"/>
+<!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
+<div>
+  <img  height="270" width="1200" src="https://github.com/Prashantomm/Prashantomm/assets/112774297/4097cf52-6d4f-40bf-9e5c-f6165a7b9260">
+</div>
+
+
+<div>
+<h2 align="center">Hi 👋, I am Aman Choure.</h2>
+  <h2 align="center">"Joining GitHub is like entering a limitless library of knowledge, where every commit is a new chapter in your learning journey.".</h2>
+  <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Aman Choure.;I+am+a+Full+Stack+Java+Developer.;Interested+in+working+with+Team.;Curious+to+learn+new+things+!..." alt="Typing SVG" /></a></div>
+<hr>
+
+
+  
+
+</div>
+
+<h2 align="center">💫  About Me </h2>
+ <img align="right" alt="coding" width="300"  src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hmyoxu0uv0985uqtkbgtqd3zcjzxw2hgvgmp35jb&rid=giphy.gif&ct=g"> 
+ 🔭 I’m currently working on Backend Projects</a>
+  <br>
+  🌱 I’m currently learning JAVA.
+  <br>
+  🤔 Check Out my <a href="https://drive.google.com/file/d/14TgcX6ilIko2QckNDwtH7oAu2ArQm3Hf/view?usp=drive_link">Resume</a>
+  <br>
+ 👨‍💻 Know more about me <a href="https://amanacr0358.github.io/">My Portfolio</a>
+ <br>
+ 👨‍💻 All of my projects are available at <a href="https://github.com/amanacr0358">My Github Repositories</a>
+  <br>
+ 💬 Ask me about HTML | CSS | JavaScript | Java.
+  <br>
+ ⚡ How to reach me <a href="amanchoure0358@gmail.com">Gmail</a>
+  <br>
+ ⚡ How to reach me <a href="https://www.linkedin.com/in/aman-choure-080199248/">LinkedIn</a>
+
+  
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+  
+<h1 align="center">Let's Get Connected</h1>
+<div align="center">
+ <a  href="https://www.linkedin.com/in/aman-choure-080199248/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a> -->
+<a href="mailto:amanchoure0358@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</div>
+<br />
+ <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+<h2 align="center">🚀 Languages and Tools: </h2>
+  <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
+ <img align="right" alt="Coding" width="300" margin-bottom="50px" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<p>
+ <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+ 
+<br/>
+<img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/java%20-%23F7DF1.svg?&style=for-the-badge&logo=Java&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mysql%20-%23F7DF1.svg?&style=for-the-badge&logo=Java&logoColor=white" />&nbsp;&nbsp;
+
+<br/>
+</p>
+
+ 
+<h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools..</h4>
+ 
+<p>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=blue&logo=Git&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />&nbsp;&nbsp;
+ <br/>
+ <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
+  
+  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+
+</p>
+<h2 align="center">📊 My GitHub Statastics </h2>
+<div align ="center">
+  <tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanacr0358&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="amanacr0358" />
+    <td><img src="https://github-readme-stats.vercel.app/api?username=amanacr0358&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="amanacr0358" /></td>
+  </tr>
   </div>
-  
-  <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/aman-choure-080199248/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+  <div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantomm&theme=dark" alt="amanacr0358" /></p>
   </div>
+</div>
+ 
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+</div>
+   <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+   
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amanacr0358&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+  <img  src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
   
-  
-  # Hi, I'm Aman Choure! 👋
-  I'm a Full Stack Developer with experience in HTML, CSS, JavaScript, Java, SQL and Spring .
-  <div id="gif" align="center">
-    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-  </div>
-  
-  
-  ## 🚀 About Me
-  
-Results-oriented Java Backend Developer with a proven track record of designing and implementing highly efficient server-side solutions. Proficient in Java programming, Spring framework, and database management. Skilled in analyzing complex business requirements, optimizing code performance, and ensuring data integrity. 
-
-Practiced over 400 Data Structures and Algorithms. Having 1200+ hours of hands-on experience in coding and developing real-world web applications. Passionate about learning new technologies and methodologies. .Collaborative team player with exceptional problem-solving skills and a commitment to delivering superior software solutions. Looking for a challenging role in a growth-oriented organization
-  
-  - ✳️: I'm currently learning java, Sql, Spring.
-  - 👨‍🦱: Want to know more about me <a href="https://amanacr0358.github.io/">PortFolio</a>
-  - 💬:Ask me about: <b>Backend</b>,<b>Java</b>,<b>SQL</b>,<b>Frontend</b>
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aman-choure-080199248/)   [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](amanchoure0358@gmail.com)
-  - 📧 Email: amanchoure0358@gmail.com
-  - 📍 Location: Sausar (Madhya Pradesh), India
-  
-  ### :hammer_and_wrench: Languages and Tools :
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML"width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp; 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="60" height="60"/>&nbsp; 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git"width="60" height="60"/>
-  </div>
-  <br/>
-  <h3>:fire:My Stats:</h3>
-  
-  <br/>
-  <p align="center">
-     <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=amanacr0358&theme=dark" /> <br \>
-     <br>
-     <br>
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanacr0358&show_icons=true&theme=dark"/>
-     <br>
-     <br>
-    <br>
-     <img align="center" src="https://github-profile-trophy.vercel.app/?username=amanacr0358&theme=monokai&row=1&column=4">
-  </p>
+  ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=amanacr0358&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+  <img  src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 
 
+ 
+ <h2> ✍️ Random Dev Quote </h2>
+   <img height=200px width=100% src='http://3.bp.blogspot.com/-x0PVXLOZjhg/VN2siaC-0RI/AAAAAAAAD54/qzFRKBzVVpQ/s1600/Steve%2BJobs.jpg'/> 
 
-
-
-
-
+ 
+</div>
+<img  src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+.
