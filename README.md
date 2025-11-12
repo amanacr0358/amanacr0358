@@ -21,7 +21,7 @@
   <br>
   🌱 I’m currently learning JAVA.
   <br>
-  🤔 Check Out my <a href="https://drive.google.com/drive/folders/1ehZFbB37yWZ9kJu-Y3MyuhUNPsLo3_da">Resume</a>
+  🤔 Check Out my <a href="[https://drive.google.com/drive/folders/1ehZFbB37yWZ9kJu-Y3MyuhUNPsLo3_da](https://drive.google.com/file/d/1QIpOshJXc1oZYLRFYD6Sm0eUnwlPBzEG/view?usp=sharing)">Resume</a>
   <br>
  👨‍💻 Know more about me <a href="https://amanacr0358.github.io/">My Portfolio</a>
  <br>
