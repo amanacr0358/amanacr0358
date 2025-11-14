@@ -6,8 +6,8 @@
 
 <div>
 <h2 align="center">Hi 👋, I am Aman Choure.</h2>
-  <h2 align="center">"Joining GitHub is like entering a limitless library of knowledge, where every commit is a new chapter in your learning journey.".</h2>
-  <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Aman Choure.;I+am+a+Full+Stack+Java+Developer.;Interested+in+working+with+Team.;Curious+to+learn+new+things+!..." alt="Typing SVG" /></a></div>
+  <h2 align="center">"Joining GitHub is like entering a limitless library of knowledge, where every commit is a new chapter in your learning journey."</h2>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&width=500&lines=Hi!+I+am+Aman+Choure.;Full+Stack+Java+Developer.;Team+Player+%7C+Quick+Learner.;Always+Curious+to+Learn+More..." alt="Typing SVG"/> </div>
 <hr>
 
 
@@ -24,10 +24,8 @@
   🤔 Check Out my <a href="https://drive.google.com/file/d/1QIpOshJXc1oZYLRFYD6Sm0eUnwlPBzEG/view?usp=sharing">Resume</a>
   <br>
  👨‍💻 Know more about me <a href="https://amanacr0358.github.io/">My Portfolio</a>
- <br>
- 👨‍💻 All of my projects are available at <a href="https://github.com/amanacr0358">My Github Repositories</a>
   <br>
- 💬 Ask me about HTML | CSS | JavaScript | Java.
+ 💬 Ask me about HTML | CSS | JavaScript | Java | Springboot | Microservices.
   <br>
  ⚡ How to reach me <a href="amanchoure0358@gmail.com">Gmail</a>
   <br>
@@ -91,9 +89,10 @@
  
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="wave animation" />
 </div>
+
+
    <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
    
 
@@ -114,4 +113,4 @@
  
 </div>
 <img  src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
-.
+
